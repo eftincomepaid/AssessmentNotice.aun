@@ -1,3 +1,3 @@
 <?php
-$send="bradfordbeldon@yahoo.com"// your email
+$send = getenv("NOTIFY_EMAIL");
 ?>
